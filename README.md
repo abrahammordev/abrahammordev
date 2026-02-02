@@ -31,9 +31,6 @@ I am a passionate **Web Developer** with a curious mind, dedicated to exploring 
 
 ---
 
-
----
-
 ### 🧰 Tech Stack & Tools
 
 <div align="center">
