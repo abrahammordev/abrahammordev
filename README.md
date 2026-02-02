@@ -31,17 +31,6 @@ I am a passionate **Web Developer** with a curious mind, dedicated to exploring 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- Stats Card: Sin Rank, Commits del año actual, Fondo transparente -->
-  <a href="https://github.com/abrahammordev">
-    <img src="https://github-readme-stats.vercel.app/api?username=abrahammordev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_rank=true" height="180" alt="stats graph"  />
-  </a>
-  <a href="https://github.com/abrahammordev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahammordev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
-  </a>
-</div>
 
 ---
 
