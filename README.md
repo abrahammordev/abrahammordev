@@ -21,13 +21,15 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I am a passionate **Web Developer** with a curious mind, dedicated to exploring the intersection of design, functionality, and emerging technologies. My journey is defined by a constant drive to learn and build tools that make a difference.
+I’m a passionate **Web Developer** with a curious and creative mindset, focused on building useful digital products at the intersection of design, functionality, and emerging technologies. I’m constantly learning, experimenting, and improving the way I approach software development.
 
-- 🔭 **Current Project:** I’m developing **OpoFlash**, an e-learning platform leveraging **spaced repetition algorithms** to optimize study efficiency.
-- 🌱 **Currently Learning:** Mastering **Full Stack** architecture, **Solidity**, and diving deep into the **Web3** ecosystem.
-- 👨‍💻 **Portfolio:** See my latest projects at [abrahammordev-portfolio.vercel.app](https://abrahammordev-portfolio.vercel.app/)
+* 🔭 **Current Project:** I’m currently developing **OpoFlash**, an e-learning platform that uses **spaced repetition algorithms** to help users study more efficiently and retain information for longer.
+* 🛠️ **Development Environment:** A working development version of the platform is available at [dev.opo-flash.com](https://dev.opo-flash.com/), where I test new features and continuously improve the product.
+* 🌱 **Currently Learning:** Expanding my knowledge of **Full-Stack architecture**, **Kubernetes**, **CI/CD pipelines**, containerized deployments, and modern cloud-native development practices.
+* 👨‍💻 **Portfolio:** Explore my latest projects at [abrahammordev-portfolio.vercel.app](https://abrahammordev-portfolio.vercel.app/).
+
 
 ---
 
