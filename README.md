@@ -23,13 +23,19 @@
 
 ### About Me
 
-I’m a passionate **Web Developer** with a curious and creative mindset, focused on building useful digital products at the intersection of design, functionality, and emerging technologies. I’m constantly learning, experimenting, and improving the way I approach software development.
+Software developer working on production RAG systems and open-source elearning infrastructure. I split my time between shipping AI-driven products and maintaining core modules of **ILIAS**, an open-source LMS used by universities across Europe.
 
-* 🔭 **Current Project:** I’m currently developing **OpoFlash**, an e-learning platform that uses **spaced repetition algorithms** to help users study more efficiently and retain information for longer.
-* 🛠️ **Development Environment:** A working development version of the platform is available at [dev.opo-flash.com](https://dev.opo-flash.com/), where I test new features and continuously improve the product.
-* 🌱 **Currently Learning:** Expanding my knowledge of **Full-Stack architecture**, **Kubernetes**, **CI/CD pipelines**, containerized deployments, and modern cloud-native development practices.
-* 👨‍💻 **Portfolio:** Explore my latest projects at [abrahammordev-portfolio.vercel.app](https://abrahammordev-portfolio.vercel.app/).
+* 🔭 **Currently building:** [**OpoFlash**](https://app.opo-flash.com), a microservices-based elearning platform with a custom RAG pipeline that ingests student content and auto-generates flashcards and summaries, paired with a spaced-repetition engine (**FSRS-5**) written in Python.
 
+* 🧠 **Also shipped:** **Checkeapp**, a real-time fact-checking platform (TypeScript, Next.js, React) that uses Retrieval-Augmented Generation to pull live web sources and generate verifiable, source-backed reports — 95% accuracy on report generation.
+
+* 🛠️ **Open source:** Technical owner of **Survey**, a core module of ILIAS — leading its roadmap, resolving backlog, and shipping architectural improvements, alongside contributions to accessibility (WCAG) initiatives across the platform.
+
+* ⚙️ **Stack:** TypeScript/React/Next.js on the frontend; Java (Spring Boot), .NET, and Node.js on the backend; AWS, Docker, and GitHub Actions for CI/CD.
+
+* 🌱 **Currently learning:** Kubernetes, containerized deployments, and cloud-native architecture patterns to scale multi-client production systems.
+
+* 👨‍💻 **Portfolio:** [abrahammordev-portfolio.vercel.app](https://abrahammordev-portfolio.vercel.app/)
 
 ---
 
